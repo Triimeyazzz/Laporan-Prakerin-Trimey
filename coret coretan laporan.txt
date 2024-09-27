@@ -1,0 +1,148 @@
+Dengan memanjatkan puji syukur kehadirat Allah SWT yang telah melimpahkan rahmat dan karunia-Nya kepada penyusun sehingga penyusun dapat menyelesaikan laporan prakerin ini tepat pada waktunya.
+Laporan prakerin yang berjudul Perancangan Aplikasi Customer Relationship Management Berbasis Website Menggunakan Bahasa Pemrograman Php Framework Laravel 11 Dan React 18.3.1 Dengan Database Mysql Pada Bimbel New Primagama powered by Zenius dibuat untuk memenuhi salah satu syarat mengikuti ujian semester ganjil tahun ajaran 2022/2023. Pada kesempatan yang baik ini, izinkanlah penyusun menyampaikan rasa hormat dan ucapan terima kasih kepada penyusun dalam menyelesaikan laporan prakerin ini, terutama kepada:
+1. Suherman, S.Si.,M.Pd. selalu kepala SMK Informatika Utama
+2. Harnoko, S.Kom. selaku pembimbing program prakerin
+3. Faiza, S.Pd. selaku pembimbing Teknik
+4. Staff/Karyawan/Guru SMK Informatika Utama
+5. Orang tua tercinta yang telah memberikan dukungan moral maupun spiritual
+6. Teman-teman kelas XI-RPL SMK Informatika Utama.
+Penyusun menyadari bahwa laporan prakerin ini masih banyak kekurangannya, baik bentuk, isi, maupun penyajiannya, oleh sebab itu kritikan bersifat membangun dari berbagai pihak penyusun terima dengan tangan terbuka.
+
+
+Menurut Rusdi Nur, dkk (2018:5) menyatakan bahwa “perancangan adalah suatu proses untuk membuat dan mendesain sistem yang baru.” Berdasarkan pengertian diatas dapat disimpulkan bahwa perancangan sistem adalah sebuah proses setelah analisis dari siklus pengembangan sistem untuk merancang suatu sistem.
+Nur, R., & Suyuti, M. A. 2018. Perancangan Mesin-Mesin Industri.
+Yogyakarta:Deepublish.
+
+Menurut para ahli (Hengky W. Pramana 2022), Aplikasi merupakan suatu unit perangkat lunak yang dibuat untuk melayani kebutuhan akan beberapa aktivitas seperti sistem perniagaan, game palayanan masyarakat, periklanan, atau semua proses yang hampir dilakukan manusia.
+https://journal.unmaha.ac.id/index.php/jik/article/download/225/191/812#:~:text=3.-,Aplikasi,proses%20yang%20hampir%20dilakukan%20manusia.
+
+
+Menurut Abdurohim (2022:07) mengatakan bahwa customer relationship management merupakan strategi bisnis yang memadukan proses, manusia, dan teknologi. Membantu menarik prospek penjualan, mengkonversi mereka menjadi pelanggan, dan mempertahankan pelanggan yang sudah ada, pelanggan yang puas dan loyal. Customer relationship management di masa kini bertujuan untuk mengetahui sebanyak mungkin tentang bagaimana kebutuhan dan perilaku pelanggan. Lebih jelasnya dengan menerapkan sebuah customer relationship management, suatu bisnis akan mampu mengenal serta memahami pelanggan mereka lebih baik. Jadi, bisnis yang dijalankan dapat merespon kebutuhan pelanggan dengan cepat dan tepat. 
+EBOOK-Customer Relationship Management.pdf
+
+
+Apa sebenarnya javascript seperti yang telah disebutkan di paragraf sebelumnya? Javascript adalah salah satu dari sedikit bahasa pemrograman internet yang dapat membuat situs web Anda lebih menarik dan layak huni. Kesalahan eksekusi Javascript terjadi di jendela browser pengguna atau tempat lain selain server, yang berbeda dari PHP.
+Tampilan Javascript berbeda dari HTML dan CSS. CSS dan HTML masing-masing digunakan untuk mengubah format konten tabular. oleh karena itu desain keseluruhannya sangat berbeda. Ada beberapa contoh orang yang menggunakan HTML, CSS, dan javascript secara bersamaan, termasuk konstruksi rumah, dekorasi interior, dan lampu serta pintu-pintu.
+e-book-javascript
+
+
+
+Menurut Jubilee Enterprise (2018:1) menyatakan bahwa “PHP merupakan bahasa pemrograman yang digunakan untuk membuat website yang dinamis dan interaktif.” Selain untuk membuat serta mengembangkan website yang bersifat dinamis dan interaktif, PHP juga memiliki beberapa fungsi lainnya, yaitu:
+a. PHP dapat digunakan untuk membuat, menambahkan, menghapus, dan mengubah data yang ada di database (CRUD).
+b. PHP dapat digunakan untuk membuat, membuka, membaca, menulis, menghapus, dan menutup file di server.
+c. PHP dapat mengontrol akses pengguna.
+Berdasarkan pengertian diatas, penulis dapat menyimpulkan bahwa PHP adalah bahasa pemrograman yang digunakan untuk mengembangkan website dinamis dan berjalan pada server side scripting.
+Enterprise, Jubilee. 2018. HTML, PHP, dan MySQL untuk Pemula. Jakarta: PT Elex Media Komputindo.
+
+
+Menurut Supardi (2019:1) menyatakan bahwa “Laravel merupakan pengembangan website berbasis MVC yang ditulis dalam PHP yang dirancang untuk meningkatkan kualitas perangkat lunak dengan mengurangi biaya pengembangan awal dan biaya pemeliharaan, serta untuk meningkatkan pengalaman bekerja dengan aplikasi yang menyediakan sintaks yang ekspresif, jelas, dan menghemat waktu.”
+Berdasarkan pengertian menurut ahli diatas, dapat disimpulkan bahwa framework berbasis bahasa pemrograman PHP yang bisa digunakan untuk membantu proses pengembangan sebuah website agar lebih maksimal.
+Supardi, Yuniar dan Sulaeman. 2019. Semua Bisa Menjadi Programmer Laravel Basic. Jakarta: PT Elex Media Komputindo.
+
+
+
+Menurut Jubilee Enterprise (2018:2) menyatakan bahwa “My Structured Query Language atau lebih sering disebut dengan MySQL merupakan server yang melayani database. Dalam kalangan programmer web, MySQL merupakan sistem database yang paling popular dan menjadi favorit. Hal tersebut dikarenakan MySQL stabil, fleksibel, dan memudahkan dalam memanagement data.”
+Menurut Fitri Ayu, et al (2018) menyatakan bahwa “MySQL adalah sistem manajemen Database SQL yang bersifat open source dan paling populer saat ini. Sistem Database MySQL mendukung beberapa fitur seperti multi threaded, multi user dan SQL Database managemen system (DBMS).” Berdasarkan pengertian diatas, dapat disimpulkan bahwa MySQL adalah server yang melayani dan mengelola database di dalam website.
+Enterprise, Jubilee. 2018. HTML, PHP, dan MySQL untuk Pemula. Jakarta: PT Elex Media Komputindo. 
+Fitri Ayu, et, all. 2018. Perancangan sistem informasi pengolahan data pratek kerja lapangan (pkl) pada devisi humas pt. Pegadaian. Volume 2, No. 2, Jurnal Intra-Tech. Di unduh pada 27 Oktober 2022. Pukul: 10.45 WIB.
+
+
+CSS adalah kependekan dari Cascading Style Sheet. CSS merupakan salah satu kode pemrograman yang bertujuan untuk menghias dan mengatur gaya tampilan/layout halaman web supaya lebih elegan dan menarik.CSS adalah sebuah teknologi internet yang direkomendasikan oleh World Wide Web Consortium atau W3C pada tahun 1996.
+
+Awalnya, CSS dikembangkan di SGML pada tahun 1970, dan terus dikembangkan hingga saat ini. CSS telah mendukung banyak bahasa markup seperti HTML, XHTML, XML, SV (Scalable Vector Graphics) dan Mozilla XUL (XML User Interface Language).
+
+Pada desember 1996, W3C memperkenalkan Level 1 spesifikasi CSS atau juga dikenal CSS1 yang mendukung format, warna font teks, dan lain-lain. Kemudian, Mei 1998, W3C menerbitkan CSS2 yang di dalamnya diatur fungsi peletakan elemen. Dan sekarang, W3C telah memperbaiki dan meningkatkan Kemampuan CSS2 ke  CSS3. CSS digunakan oleh web programmer dan juga blogger untuk menentukan warna, tata letak font, dan semua aspek lain dari presentasi dokumen di situs mereka.
+https://cahyasmara.blogspot.com/2018/03/css-cascading-style-sheet.html
+
+
+
+
+Menurut Heru Sulistiono(2018:3) menyatakan bahwa “ Javascriptadalah bahasa pemrograman tingkat tinggi untuk membuatwebsite dinamis,dan Jquery adalahlibrary atau pustaka dari javascript  yang dirancang untukmemudahkan penerapanclient side scripting dan menyajikan sebuah paradigma baru pada penanganan event pada Javascript .” Dari pengertian diatas dapat penulis simpulkan bahwa Javasript  merupakan bahasa pemrograman berbasisclient  yang digunakan agardokumen HTML yang ditampilkan dalambrowser  menjadi lebih interaktif,tidak sekedar indah saja.
+Sulistiono, Heru. 2018. Coding Mudah dengan CodeIgniter, JQuery, Bootstrap, danDataTable. Jakarta: PT Elex Media Komputindo.
+
+
+
+Menurut pendapat Yudho Yudhanto dan Helmi Adi Prasetyo (2019:6)menyatakan bahwa “CSS adalah singkatan dari “Cascading Style Sheet ”. CSS yaitu bahasa yang digunakan untuk format HTML agar menjadi lebih bagusdan efektif dalam tampilan.” 
+Yudhanto, Yudho dan Prasetyo, Adi, Helmi. 2019. Mudah Menguasai FrameworkLaravel. Jakarta: PT Elex Media Komputindo.
+
+Menurut Betha Sidik (2019:251) menyatakan bahwa “CSS (CascadingStyle Sheet ) adalah suatu bahasa yang digunakan untuk menjelaskanstyle darisuatu dokumen dan elemen HTML.” Berdasarkan pengertian para ahli diatas, dapat disimpulkan bahwa CSS(Cascading Style Sheet)adalah salah satustyling language (bahasa desain), bagian darimarkup language yang dapat “mewarnai” atau mendesain suatuhalamanwebsite. 
+Sidik, Betha. 2019. HTML5 Dasar-dasar Untuk Pengembangan Aplikasi BerbasisWeb. Bandung: Informatika Bandung.
+
+
+
+HTML adalah sebuah markup untuk menstrukturkan dan menampilkan isi dari halaman web. HTML (yang pertama kali diciptakan pada tahun 1990 dan versi ke empatnya, HTML4, pada tahun 1997) dan hingga bulan juni 2011 tetap dalam proses pengembangan. Tujuan utama pengembangan HTML5 adalah untuk memberbaiki teknologi HTML agar mendukung teknologi multimedia terbaru, mudah dibaca oleh manusia dan juga mudah mengerti oleh mesin. HTML5 merupakan salah satu karya World Wide Web Consertium, W3C untuk mendefinisikan sebuah bahasa markup tunggal yang dapat ditulis dengan cara HTML 4.01 danXHTML 1.1 yang selama ini berjalan terpisah, dan di implemetasikan secara berbeda-beda oleh banyak perangkat lunak pembuat web.
+https://id.scribd.com/document/452977118/LAPORAN-PEMROGRAMAN-WEB-docx
+
+
+
+React JS adalah open-source JavaScript library yang digunakan untuk membangun antarmuka pengguna khusus untuk aplikasi satu halaman (Single Applications). Ini digunakan untuk menangani tampilan layer untuk aplikasi web dan seluler. React JS juga memungkinkan kita untuk membuat komponen UI yang dapat digunakan kembali. Ada beberapa sumber yang diambil dalam memahami penggunaan React Js diantaranya website resmi React Js, Google dan melalui video Youtube.Mustakim 2022
+http://eprints.polbeng.ac.id/4998/4/4.KP-6304181108-Full%20Text.pdf
+
+
+
+Adanya teknologi informasi memberikan kemudahan dalam kehidupan sehari-hari sehingga dapat memudahkan pekerjaan manusia seperti mengetik, menghitung, presentasi dan lain sebagainya. Penggunaan teknologi informasi memudahkan dalam berkomunikasi, dimanapun dan kapanpun dengan koneksi internet meskipun dalam kondisi jarak jauh. Yang pada hakikatnya telah menjadi bagian penting dalam perkembangan kehidupan modern. TI mencakup semua teknologi yang berhubungan dengan pengambilan, pengumpulan, pengolahan, penyimpanan, penyebaran, pemindahan dan penyajian informasi yaitu semua perangkat keras, perangkat lunak, kandungan isi, dan infrastruktur komputer maupun komunikasi (Setiawan, H. S., 2024).
+
+
+
+Maksud dari penyusunan laporan prakerin ini adalah bahwa Bimbel New Primagama powered by Zenius belum memiliki sistem administrasi berbasis website, terutama dalam hal pendaftaran manual dan pemantauan perkembangan siswa. Untuk itu, penyusun merancang aplikasi yang berfungsi untuk management hubungan dengan customer atau CRM ( Customer Relationship Management ). dengan menggunakan Framework Laravel 11 Dan React 18.3.1 Dengan Database Mysql.
+Adapun tujuan dari penyusunan laporan prakerin ini yaitu sebagai salah satu syarat untuk kelulusan siswa tahun ajaran 2024/2025.
+
+
+
+Dalam penyusunan laporan prakerin ini, penyusun menggunakan beberapa metode untuk mendapatkan data-data yang diperlukan untuk menyelesaikan laporan. Metode-metode yang digunakan dalam penyusunan laporan ini adalah sebagai berikut:
+a. Observasi
+Observasi atau pengamatan adalah suatu aktifitas mengamati sebuah objek secara langsung dan mendetail guna menemukan informasi. Tahap observasi atau pengamatan yang penyusun lakukan adalah dengan cara pengamatan secara langsung di Lembaga Bimbel New Primagama powered by Zenius.
+b. Wawancara
+Wawancara adalah suatu percakapan yang dilakukan antara dua orang atau lebih, yaitu pewawancara dan narasumber yang bertujuan untuk mengumpulkan data-data berupa informasi.
+Metode wawancara yang dilakukan penyusun adalah dengan cara menanyakan secara langsung kepada pihak yang terkait selama melakukan praktik kerja industri pada Bimbel New Primagama powered by Zenius guna memperoleh informasi data.
+c. Studi Pustaka
+Studi pustaka merupakan cara pengumpulan data dengan tinjauan pustaka ke perpustakaan dengan mengumpulkan buku-buku untuk menggali informasi dengan membaca. Penyusun melakukan metode ini dengan cara mempelajari dan membaca buku-buku, literatur serta referensi-referensi yang relavan terkait perancangan aplikasi CRM ( Customer Relationship Management ) dan pemrograman.
+
+
+
+
+
+
+
+
+
+
+
+Bab 3
+
+
+Kerja samaini menciptakan jenama baru yaitu New Primagama Powered by Zenius. Dalam kolaborasi tersebut, Primagama dan Zenius memperkuat komitmennya untuk menjadi tempat bimbel terbaik di Indonesia dengan menciptakan metode belajar masa depan, yaitu hybrid learning. Hybrid learning adalah metode belajar efektif yang menggabungkan proses belajar-mengajar secara daring (online) dengan pembelajaran tatap muka (offline). Dengan metode belajar secara hibrid ini, para murid akan bisa berinteraksi langsung dengan para tentor Primagama, dan juga mengakses pembelajaran secara online, kapan saja dan di mana saja. Model belajar (online-mergeoffline/OMO) inilah yang menjadi latar belakang kerja sama antara Zenius dan Primagama.
+Selama empat dekade berdiri, Primagama saat ini memiliki lebih dari 300 cabang dan 3 ribu tenaga pengajar yang mendidik lebih dari 30 ribu siswa dalam setahun. Primagama juga menyajikan aplikasi belajar offline untuk siswa tingkat SD hingga SMA dengan target meningkatkan prestasi akademik murid di sekolah, termasuk mempersiapkan siswa dalam menjalani ujian sekolah, dan Ujian Masuk Perguruan Tinggi Negeri/Favorit, serta sekolah kedinasan (untuk SMA/SMK).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
